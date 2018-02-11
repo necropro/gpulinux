@@ -1,1 +1,1 @@
-./miner europe.equihash-hub.miningpoolhub.com:12023 -NecroPro.miner1 -qwsaqwsa z --port 12023
+./miner --server zecmine.pro --user t1ew8dyUZqTG1DVpqmjnn4gXFVPJuPNfGvd.createthis/YOUR_EMAIL --pec --fee 0 --pass z --port 9009
